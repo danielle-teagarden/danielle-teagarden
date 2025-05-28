@@ -34,7 +34,10 @@ Interactive, accessible educational presentation exploring copyright law fundame
 [![Source Code](https://img.shields.io/badge/Source-GitHub-blue)](https://github.com/danielle-teagarden/copyright-law-lecture)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
-![Copyright Law Lecture Screenshot](assets/copyright-law-screenshot.png)
+![Screenshot of the Copyright Law Lecture interactive presentation showing clean, accessible design with navigation and mobile-friendly layout](assets/copyright-law-screenshot.png)
+
+**Who is this for?**  
+Students, educators, legal professionals, and anyone interested in understanding copyright law fundamentals through an accessible, interactive format.
 
 **Features:**  
 ✔️ Responsive design  
