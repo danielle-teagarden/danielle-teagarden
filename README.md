@@ -8,6 +8,8 @@
 
 I work at the intersection of **law and technology** with a human-first approach, building open tools that make the legal system more accessible and navigable for everyone. My focus is on creating technology that reduces friction in legal workflows, enabling legal professionals to focus on higher-level work while empowering the public to better understand and engage with the law.
 
+All projects prioritize **accessibility** and follow open-source principles, creating tools we'd want to exist in the world.
+
 **Core Focus:**
 - 🛠️ **Open Legal Tools** - Building accessible technology for legal exploration and navigation
 - ⚖️ **Workflow Optimization** - Reducing friction in legal processes through thoughtful technology
@@ -20,13 +22,21 @@ I work at the intersection of **law and technology** with a human-first approach
 
 ## Recent Projects
 
-<div align="center">
-  <a href="https://copyright-law-lecture.netlify.app/">
-    <img src="https://img.shields.io/badge/Copyright_Law_Guest_Lecture-Interactive_Web_App-6B46C1?style=for-the-badge&logo=netlify&logoColor=white" alt="Copyright Law Lecture" />
-  </a>
-</div>
+### [Copyright Law Lecture](https://copyright-law-lecture.netlify.app/)
+Interactive, accessible educational presentation exploring copyright law fundamentals - demonstrating how technology can make complex legal concepts more accessible and engaging.
 
-Interactive educational presentation exploring copyright law fundamentals - demonstrating how technology can make complex legal concepts more accessible and engaging.
+[![View Live](https://img.shields.io/badge/View_Live-6B46C1?style=flat-square&logo=netlify&logoColor=white)](https://copyright-law-lecture.netlify.app/)
+[![Open Source](https://img.shields.io/badge/Open_Source-brightgreen?style=flat-square&logo=github&logoColor=white)](https://github.com/danielle-teagarden)
+
+**Features:** Responsive design • Keyboard navigation • Mobile-friendly • Interactive elements
+
+---
+
+## Collaboration
+
+I'm always interested in connecting with others working at the intersection of law and technology. Whether you're building legal tools, working on accessibility, or exploring how technology can serve justice - let's collaborate!
+
+💡 **Open to:** Project collaboration • Feedback on legal tech tools • Speaking opportunities
 
 ## Tech Stack
 
