@@ -22,13 +22,21 @@ All projects prioritize **accessibility** and follow open-source principles, cre
 
 ## Recent Projects
 
-### [Copyright Law Lecture](https://copyright-law-lecture.netlify.app/)
-Interactive, accessible educational presentation exploring copyright law fundamentals - demonstrating how technology can make complex legal concepts more accessible and engaging.
+---
 
-[![View Live](https://img.shields.io/badge/View_Live-6B46C1?style=flat-square&logo=netlify&logoColor=white)](https://copyright-law-lecture.netlify.app/)
-[![Open Source](https://img.shields.io/badge/Open_Source-brightgreen?style=flat-square&logo=github&logoColor=white)](https://github.com/danielle-teagarden)
+### Copyright Law Lecture
 
-**Features:** Responsive design • Keyboard navigation • Mobile-friendly • Interactive elements
+Interactive, accessible educational presentation exploring copyright law fundamentals—demonstrating how technology can make complex legal concepts more accessible and engaging.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen)](https://copyright-law-lecture.netlify.app/)
+[![Source Code](https://img.shields.io/badge/Source-GitHub-blue)](https://github.com/danielle-teagarden/copyright-law-lecture)
+
+**Features:**  
+✔️ Responsive design  
+✔️ Keyboard navigation  
+✔️ Mobile-friendly  
+✔️ Interactive elements  
+✔️ Accessibility-first
 
 ---
 
