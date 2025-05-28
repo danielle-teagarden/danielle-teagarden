@@ -8,7 +8,7 @@
 
 I work at the intersection of **law and technology** with a human-first approach, building open tools that make the legal system more accessible and navigable for everyone. My focus is on creating technology that reduces friction in legal workflows, enabling legal professionals to focus on higher-level work while empowering the public to better understand and engage with the law.
 
-All projects prioritize **accessibility** and follow open-source principles, creating tools we'd want to exist in the world.
+All projects prioritize **accessibility** and follow open-source principles, building the right tools the right way—creating what ought to exist in the world.
 
 **Speaking & Teaching:** Guest lectures on copyright law and legal technology, with a focus on making complex concepts accessible through interactive presentations.
 
@@ -69,5 +69,5 @@ I'm always interested in connecting with others working at the intersection of l
 ---
 
 <div align="center">
-  <i>Building tools we'd want to exist in the world</i>
+  <i>Building what ought to exist</i>
 </div>
