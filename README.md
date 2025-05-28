@@ -30,6 +30,7 @@ Interactive, accessible educational presentation exploring copyright law fundame
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen)](https://copyright-law-lecture.netlify.app/)
 [![Source Code](https://img.shields.io/badge/Source-GitHub-blue)](https://github.com/danielle-teagarden/copyright-law-lecture)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
 **Features:**  
 ✔️ Responsive design  
