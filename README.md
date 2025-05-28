@@ -10,6 +10,8 @@ I work at the intersection of **law and technology** with a human-first approach
 
 All projects prioritize **accessibility** and follow open-source principles, creating tools we'd want to exist in the world.
 
+**Speaking & Teaching:** Guest lectures on copyright law and legal technology, with a focus on making complex concepts accessible through interactive presentations.
+
 **Core Focus:**
 - 🛠️ **Open Legal Tools** - Building accessible technology for legal exploration and navigation
 - ⚖️ **Workflow Optimization** - Reducing friction in legal processes through thoughtful technology
@@ -31,6 +33,8 @@ Interactive, accessible educational presentation exploring copyright law fundame
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen)](https://copyright-law-lecture.netlify.app/)
 [![Source Code](https://img.shields.io/badge/Source-GitHub-blue)](https://github.com/danielle-teagarden/copyright-law-lecture)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
+
+![Copyright Law Lecture Screenshot](assets/copyright-law-screenshot.png)
 
 **Features:**  
 ✔️ Responsive design  
