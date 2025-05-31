@@ -1,7 +1,7 @@
 # Danielle Teagarden
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B46C1&center=true&vCenter=true&width=500&lines=Building+Open+Legal+Tools;Human-First+Legal+Technology;Creating+What+Should+Exist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+Open+Legal+Tools;Human-First+Legal+Technology;Creating+What+Should+Exist" alt="Typing SVG" />
 </div>
 
 ## About
