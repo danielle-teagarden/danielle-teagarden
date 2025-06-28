@@ -26,6 +26,31 @@ All projects prioritize **accessibility** and follow open-source principles, bui
 
 ---
 
+### 🎉 netlify-subdomain - My First NPM Package!
+
+CLI tool that makes managing Netlify subdomains as simple as typing a command. No more clicking through the web UI!
+
+[![npm version](https://badge.fury.io/js/netlify-subdomain.svg)](https://www.npmjs.com/package/netlify-subdomain)
+[![npm downloads](https://img.shields.io/npm/dt/netlify-subdomain.svg)](https://www.npmjs.com/package/netlify-subdomain)
+[![Source Code](https://img.shields.io/badge/Source-GitHub-blue)](https://github.com/danielle-teagarden/netlify-subdomain)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+```bash
+npm install -g netlify-subdomain
+netlify-subdomain add blog  # Creates blog.yourdomain.com instantly!
+```
+
+**Why I built this:**  
+Needed to create subdomains frequently for various projects. The Netlify web UI requires multiple clicks and page loads. This tool reduces that to a single command.
+
+**Features:**  
+✔️ Add/remove subdomains from CLI  
+✔️ Site aliases for quick access  
+✔️ Works with any Netlify DNS-managed domain  
+✔️ Zero configuration after initial setup
+
+---
+
 ### Copyright Law Lecture
 
 Interactive, accessible educational presentation exploring copyright law fundamentals—demonstrating how technology can make complex legal concepts more accessible and engaging.
@@ -59,6 +84,8 @@ I'm always interested in connecting with others working at the intersection of l
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## Connect
