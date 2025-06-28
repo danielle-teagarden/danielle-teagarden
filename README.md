@@ -28,15 +28,18 @@ All projects prioritize **accessibility** and follow open-source principles, bui
 
 > **Philosophy:** Quick, high-impact technical contributions to open source projects. Like Batman swooping in to save Gotham, I identify specific technical challenges and deliver clean, well-tested solutions without requiring long-term maintenance commitment.
 
-**🏆 Latest Mission:** [Creative Commons License Chooser](https://github.com/creativecommons/chooser/pull/581) - Set up automated Prettier code formatting with pre-commit hooks and CI integration, solving developer IDE formatting confusion.
+**🏆 Latest Missions:** 
+- [A11Y Project - Automated Link Checker](https://github.com/a11yproject/a11yproject.com/pull/1626) - Implemented monthly automated broken link checking with Lychee via GitHub Actions
+- [A11Y Project - Broken Link Fix](https://github.com/a11yproject/a11yproject.com/pull/1625) - Fixed broken internal link improving site reliability
+- [Creative Commons License Chooser](https://github.com/creativecommons/chooser/pull/581) - Set up automated Prettier code formatting with pre-commit hooks
 
 [![Code Batman Tracker](https://img.shields.io/badge/🦸‍♀️_Code_Batman-Track_All_Missions-FFD700?style=for-the-badge)](https://codebatman.danielle.world)
 
-**Recent Contributions:**
-- ⚡ **Developer Tooling:** Prettier + Husky pre-commit hooks setup
-- 🔧 **Skills Used:** GitHub Actions, npm tooling, git workflow management  
-- ⏱️ **Impact:** High - Automated code formatting for entire project
-- 📊 **Status:** Submitted (PR #581)
+**Mission Stats:**
+- 🎯 **Total Contributions:** 3 across 2 organizations
+- 🏢 **Organizations:** Creative Commons, The A11Y Project
+- 💡 **Focus Areas:** Developer tooling, accessibility, automation
+- 📊 **Status:** All PRs submitted and awaiting review
 
 ---
 
