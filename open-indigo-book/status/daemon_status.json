@@ -1,8 +1,8 @@
 {
   "daemon_running": true,
-  "last_check": "2025-06-28T02:50:40.789518",
+  "last_check": "2025-06-28T08:50:58.730686",
   "last_update": "2025-06-27T08:44:41.891881",
-  "next_check": "2025-06-28T08:50:40.789518",
+  "next_check": "2025-06-28T14:50:58.730686",
   "current_version": "2.1",
   "rule_count": 3623,
   "config": {
