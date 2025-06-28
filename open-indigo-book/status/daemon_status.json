@@ -1,0 +1,39 @@
+{
+  "daemon_running": true,
+  "last_check": "2025-06-28T02:50:40.789518",
+  "last_update": "2025-06-27T08:44:41.891881",
+  "next_check": "2025-06-28T08:50:40.789518",
+  "current_version": "2.1",
+  "rule_count": 3623,
+  "config": {
+    "check_interval_hours": 6,
+    "output_dir": "../data",
+    "backup_dir": "../data/backups",
+    "notifications": {
+      "enabled_channels": [
+        "macos"
+      ],
+      "email": {
+        "enabled": false,
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "username": "",
+        "password": "",
+        "to_address": "",
+        "from_address": ""
+      },
+      "slack": {
+        "enabled": false,
+        "webhook_url": "",
+        "channel": "#indigo-book-updates"
+      },
+      "discord": {
+        "enabled": false,
+        "webhook_url": ""
+      }
+    },
+    "auto_update": true,
+    "notify_on_startup": true,
+    "notify_on_no_changes": false
+  }
+}
