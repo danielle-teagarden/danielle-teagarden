@@ -20,7 +20,25 @@ All projects prioritize **accessibility** and follow open-source principles, bui
 
 ## Current Work
 
+**🦸‍♀️ Code Batman Missions** - Swooping in to deliver quick, high-impact technical contributions to open source projects. Each mission is a discrete technical improvement that helps projects without long-term maintenance commitment. **[Track my missions →](https://codebatman.danielle.world)**
+
 **Open Legal Tools** - Contributing to tools that democratize legal access and streamline professional workflows, making the law more transparent and navigable for practitioners and the public alike.
+
+## 🦸‍♀️ Code Batman Missions
+
+> **Philosophy:** Quick, high-impact technical contributions to open source projects. Like Batman swooping in to save Gotham, I identify specific technical challenges and deliver clean, well-tested solutions without requiring long-term maintenance commitment.
+
+**🏆 Latest Mission:** [Creative Commons License Chooser](https://github.com/creativecommons/chooser/pull/581) - Set up automated Prettier code formatting with pre-commit hooks and CI integration, solving developer IDE formatting confusion.
+
+[![Code Batman Tracker](https://img.shields.io/badge/🦸‍♀️_Code_Batman-Track_All_Missions-FFD700?style=for-the-badge)](https://codebatman.danielle.world)
+
+**Recent Contributions:**
+- ⚡ **Developer Tooling:** Prettier + Husky pre-commit hooks setup
+- 🔧 **Skills Used:** GitHub Actions, npm tooling, git workflow management  
+- ⏱️ **Impact:** High - Automated code formatting for entire project
+- 📊 **Status:** Submitted (PR #581)
+
+---
 
 ## Recent Projects
 
@@ -81,12 +99,24 @@ I'm always interested in connecting with others working at the intersection of l
 
 ## Tech Stack
 
+**Frontend & Design:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Development Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Backend & CLI:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Deployment & Infrastructure:**  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ## Connect
 
