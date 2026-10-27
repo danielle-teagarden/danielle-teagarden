@@ -1,8 +1,8 @@
 # Danielle M. Teagarden
 
-Writer, lawyer, dreamer, and doer.
+Writer, lawyer, planner, builder.
 
-I'm an Indiana lawyer who builds free tools and resources that make Indiana law easier to find, read, and understand. My website is [danielleteagarden.com](https://danielleteagarden.com).
+I'm an Indiana lawyer who builds free tools that make Indiana law easier to find, read, and understand. My website is [danielleteagarden.com](https://danielleteagarden.com).
 
 ## What I'm working on
 
